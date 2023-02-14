@@ -1,0 +1,17 @@
+anatomy of an URL
+
+
+
+protocol                    required
+         domain   endpoint  pathvariable
+https://localhost/kickdinosaur/:id?size=1200
+                                    query string
+                                    optinal
+
+
+
+
+
+
+
+
